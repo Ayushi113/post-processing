@@ -1,0 +1,1368 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/8'
+p
+
+
+%% Created for Indranil Dutta at 2013-11-15 14:12:09 +0530 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+@book{gouskova01,
+editor = {Maria Gouskova},
+title = {Falling sonority onsets, loanwords, and Syllable Contact*},
+publisher = {University of Massachusetts},
+address = {Amherst},
+year = 2001}}
+
+
+@book{blackwell11,
+author = {Nancy Hall},
+title = {Vowel Epenthesis},
+editor = {Marc van Oostendorp, Colin J. Ewen, Elizabeth Hume, Keren Rice},
+booktitle = {The Blackwell companion to Phonology},
+publisher = {Blackwell Publishing Inc.},
+address = {Bloomberg},
+year = 2011}}
+
+
+
+@Manual{e1071,
+    title = {e1071: Misc Functions of the Department of Statistics (e1071), TU Wien},
+    author = {David Meyer and Evgenia Dimitriadou and Kurt Hornik and Andreas Weingessel and Friedrich Leisch},
+    year = {2014},
+    note = {R package version 1.6-3},
+    
+  }
+ 
+@incollection{maeda93,
+author={Maeda, S},
+title={Acoustics of vowel nasalization and articulatory shifts in {F}rench nasal
+vowels},
+editor = {M. K. Huffman and R. A. Krakow},
+booktitle={Phonetics and phonology: Vol. 5:
+Nasals, nasalization and the velum},
+publisher = {Academic Press},
+year = {1993} }
+
+
+
+@inproceedings{fullwood13,
+	Author = {Michelle A. Fullwood},
+	Title = {The perceptual dimensions of sonority-driven epenthesis},
+	Journal = {Proceedings of the 2013 Meeting on Phonology},
+	Year = {2013} }
+
+
+@MISC{hinter11,
+    author = {Florian Hinterleitner and Georgina Neitzel and Sebastian Möller and Christoph Norrenbrock},
+    title = {An Evaluation Protocol for the Subjective Assessment of Text-to-Speech in Audiobook Reading Tasks},
+    year = {2011}
+}
+@article{flemming08,
+    author = {Edward Flemming},
+    title = {Asymmetries between assimilation and epenthesis},
+    journal = {Massachusetts Institute of Technology},
+    address = {Cambridge},
+    pages = {305-314},
+    year = {2008} }
+
+
+@book{ohala83,
+    author = {Ohala, Manjari},
+    title = {Aspects of Hindi Phonology},
+    publisher = {Motilal Banarsidass},
+    address = {Delhi},
+    year = {1983}
+}
+
+
+@article{ghosh09, 
+title={Closure duration analysis of incomplete
+stop consonants due to stop-stop interaction}, 
+number={1},
+volume={5},
+journal={The Journal of the Acoustical Society of America}, 
+author={P. Kumar Ghosh and S. Narayanan}, 
+year={2009},
+}
+
+J. Olive, J. van Santen, M. Bernd, and C. Shih, Multilingual text-to-speech synthe-
+sis: the Bell Labs approach. KLUWER academic publishers, 1998, ch. Synthesis,
+pp. 191–205
+
+@article{olive98, 
+title={Multilingual text-to-speech synthe-
+sis: the Bell Labs approach}, 
+%number={1},
+%volume={5},
+publisher={KLUWER academic}, 
+author={J. Olive, J. van Santen, M. Bernd, and C. Shih}, 
+year={1998},
+}
+
+
+@book{hardcastle99,
+    author = {Hardcastle, William and Hewlett, Nigel},
+    citeulike-article-id = {4233153},
+    keywords = {coarticulation, speech},
+    posted-at = {2009-03-27 18:16:16},
+    priority = {5},
+    publisher = {Cambridge University Press},
+    title = {Coarticulation: Theory, Data and Techniques},
+    year = {1999}
+}
+
+@INPROCEEDINGS{kaldi11,
+         author = {Povey, Daniel and Ghoshal, Arnab and Boulianne, Gilles and Burget, Lukas and Glembek, Ondrej and Goel, Nagendra and Hannemann, Mirko and Motlicek, Petr and Qian, Yanmin and Schwarz, Petr and Silovsky, Jan and Stemmer, Georg and Vesely, Karel},
+       keywords = {ASR, Automatic Speech Recognition, GMM, HTK, SGMM},
+       projects = {Idiap, IM2},
+          month = dec,
+          title = {The Kaldi Speech Recognition Toolkit},
+      booktitle = {IEEE 2011 Workshop on Automatic Speech Recognition and Understanding},
+           year = {2011},
+      publisher = {IEEE Signal Processing Society},
+       location = {Hilton Waikoloa Village, Big Island, Hawaii, US},
+           note = {IEEE Catalog No.: CFP11SRW-USB},
+           isbn = {978-1-4673-0366-8},
+       crossref = {Povey_Idiap-RR-04-2012},
+            
+}
+
+
+@incollection{berti73,
+    author = {Fredericka Bell-Berti},
+    title = {The velopharyngeal mechanism : an electromyographic study},
+    booktitle = {Haskins Laboratory Status Report on Speech Research, Supplement},
+    pages = {117--129},
+    year = {1973} }
+
+@article{karim10, 
+title={Vowel epenthesis in Bengali: An Optimality Theory analysis}, journal={Working Papers of the Linguistics Circle of the University of Victoria}, 
+author={Khaled Karim}, 
+year={2010},
+pages={26--36}}
+
+
+@inproceedings{lombardi02, 
+booktitle = {Proceedings of Linguistics and Phonetics},
+title = {Markedness and the typology of epenthetic vowels}, 
+author = {Linda Lombardi},
+address = {University of Maryland, College Park},
+year={2002}
+}
+
+
+
+@article{mohanan93, 
+title={The Last Phonological Rule: Reflections on Constraints and Derivations}, 
+number={5}, 
+journal={Fields of attraction in phonology. John Goldsmith (ed.)}, 
+author={KP Mohanan}, 
+year={1993},
+publisher  = {Chicago University Press}
+pages={61-116}}
+
+
+
+@article{donca06, 
+title={Contour correspondence: evidence from cluster interruption. },  
+journal={Handout, OCP3.}, 
+author={Donca, Steriade}, 
+year={2006},
+publisher  = {Chicago University Press}
+}
+
+
+
+@incollection{elman1986,
+   author = {Elman, Jeffrey L. and McClelland, James L.},
+   booktitle = {Invariance and Variability in Speech Processes},
+  date-modified = {2009-03-26 17:06:30 -0400},
+  editor = {Perkell, Joseph S. and Klatt, Dennis H.},
+  interhash = {1821a6b0ac8c3e07600e2943ebf1ce39},
+  intrahash = {34e06333531e566785042d34698c6442},
+  keywords = {imported},
+  pages = {360--385},
+  publisher = {Lawrence Erlbaum},
+  timestamp = {2009-04-01T22:42:24.000+0200},
+  title = {Exploiting lawful variability in the speech wave},
+  year = 1986
+}
+
+@article{king09,
+  title={Analysis of Unsupervised and Noise-Robust Speaker-Adaptive HMM-Based Speech Synthesis Systems toward a Unified ASR and TTS Framework},
+  author={Junichi Yamagishi, Mike Lincoln, Simon King, John Dines,
+Matthew Gibson, Jilei Tian, Yong Guan},
+  journal={Blizzard Challenge},
+  year={2009},
+  }
+
+@article{dutta2013,
+  title={Coarticulation and contrast in static and dynamic models of second formant trajectories},
+  author={Dutta, Indranil and Redmon, Charlie},
+  journal={The Journal of the Acoustical Society of America},
+  volume={134},
+  number={5},
+  pages={4203--4203},
+  year={2013},
+  publisher={Acoustical Society of America}
+}
+
+@article{kishore03,
+  title={Unit Size in Unit Selection Speech Synthesis},
+  author={Kishore, S P  and Alan W Black},
+  journal={Proceedings of the Eighth European Conference on Speech Communication and Technology},
+    year={2003},
+  
+}
+
+
+@article{fowler2000,
+    author = {Fowler, C. A. and Brancazio, L.},
+    journal = {Language and Speech},
+    keywords = {coarticulation, english, language, production, vowels},
+    month = jan,
+    number = {1},
+    pages = {1--41},
+    posted-at = {2006-02-15 20:09:54},
+    priority = {3},
+    title = {{Coarticulation Resistance of American English Consonants and its Effects on Transconsonantal Vowel-to-Vowel Coarticulation}},
+    
+    volume = {43},
+    year = {2000}
+}
+
+@article{fowler1986,
+    author = {Fowler, C. A.},
+    citeulike-article-id = {3639766},
+    journal = {Journal of Phonetics},
+    local-url = {file://localhost/Users/simonworgan/Documents/library/Fowler/HL0543.pdf},
+    month = apr,
+    pages = {3--28},
+    posted-at = {2008-11-21 08:27:00},
+    priority = {2},
+    title = {{An event approach to the study of speech perception from a direct-realist perspective}},
+    volume = {14},
+    year = {1986}
+}
+
+
+
+@inproceedings{pruthi07,
+    author = {Tarun Pruthi and Carol Y. Espy-wilson},
+    title = {Acoustic Parameters for the Automatic Detection of Vowel Nasalization},
+    booktitle = {INTERSPEECH 2007},
+    place = {Antwer, Belgium},
+    year = {2007}
+}
+
+
+@article{house56,
+	Author = {House, Arthur S. and Stevens, Kenneth N.},
+	Journal = {Journal of Speech and Hearing Disorders},
+	Number = {2},
+	Pages = {218-232},
+	Title = {Analog Studies Of The Nasalization Of Vowels},
+	Volume = {21},
+	Year = {1956} }
+	
+@article{chen97,
+   author = "Chen, Marilyn Y.",
+   title = "Acoustic correlates of English and French nasalized vowels",
+   journal = "The Journal of the Acoustical Society of America",
+   year = "1997",
+   volume = "102",
+   number = "4", 
+   pages = "2360-2370"
+}
+
+
+@inproceedings{yuan11,
+    author = {Jiahong Yuan and Mark Liberman},
+    title = {Automatic Measurement and Comparison of Vowel Nasalization across Languages},
+    booktitle = {17th International Conference of Phonetic Sciences}
+    year = {2011} }
+
+@inproceedings{,
+    author = {Jiahong Yuan and Mark Liberman},
+    title = {Automatic Measurement and Comparison of Vowel Nasalization across Languages},
+    booktitle = {17th International Conference of Phonetic Sciences}
+    year = {2011} }
+
+
+@article{rodriguez10,
+author = {Rodriguez, Yosvany Llerena and Teixeira, Antńonio},
+journal = {FALA},
+title = {On the Detection and Classification of Frames from European Portuguese Oral and Nasal Vowels},
+year = {2010} }
+
+
+@article{bhat74,
+author = {Bhat, D. N. S.},
+journal = {Journal of Phonetics},
+pages = {233-237},
+title = {Retroflexion and Retraction},
+volume = {2},
+year = {1974},
+}
+
+@article{peddinti11,
+  title={Significance of vowel epenthesis in Telugu text-to-speech synthesis},
+  author={Peddinti, Vijayaditya and Kishore Prahallad},
+  journal={ International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE},
+  pages={5348-5351},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{peddintiphd,
+  title={“Synthesis of missing units in a Telugu text-to-speech system,},
+  author={Peddinti, Vijayaditya},
+  journal={Masters' Dissertation},
+  year={2011},
+  publisher={International Institute of Information Technology, Hyderabad}
+}
+
+@article{parker02,
+  title={“Quantifying the sonority hierarchy",},
+  author={Parker, S.G.},
+  journal={PhD Dissertation},
+  year={2002},
+  publisher={University of Massachusetts, Amherst}
+}
+
+@article{salverda2003,
+  title={The role of prosodic boundaries in the resolution of lexical embedding in speech comprehension},
+  author={Salverda, Anne Pier and Dahan, Delphine and McQueen, James M},
+  journal={Cognition},
+  volume={90},
+  number={1},
+  pages={51--89},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{beddor2013,
+   author = "Beddor, Patrice Speeter and McGowan, Kevin B. and Boland, Julie E. and Coetzee, Andries W. and Brasher, Anthony",
+   title = "The time course of perception of coarticulation",
+   journal = "The Journal of the Acoustical Society of America",
+   year = "2013",
+   volume = "133",
+   number = "4", 
+   eid = ,
+   pages = "2350-2366",
+   
+}
+
+
+@article{dahan2001,
+  title={Time course of frequency effects in spoken-word recognition: Evidence from eye movements},
+  author={Dahan, Delphine and Magnuson, James S and Tanenhaus, Michael K},
+  journal={Cognitive psychology},
+  volume={42},
+  number={4},
+  pages={317--367},
+  year={2001},
+  publisher={Academic Press}
+}
+
+@article{delattre55,
+  title={Acoustic Cues and Loci for Consonants},
+  author={Delattre, Pierre and Liberman, Alvin M. and Cooper, Franklin S.},
+  journal={Journal of Acoustic Society of America},
+  volume={27},
+  number={4},
+  pages={769-773},
+  year={1955},
+  publisher={Haskins Laboratories}
+}
+
+
+@article{Lindblom2012,
+title = "Dissecting coarticulation: How locus equations happen ",
+journal = "Journal of Phonetics ",
+volume = "40",
+number = "1",
+pages = "1 - 19",
+year = "2012",
+note = "",
+issn = "0095-4470",
+
+author = "Björn Lindblom and Harvey M. Sussman"
+}
+
+@article{dixit91,
+author = {Dixit, R. Prakash and James Flege},
+journal = {Journal of Phonetics},
+pages = {213-229},
+title = {Vowel Context, Rate and Loudness Effects of Linguopalatal Contact Patterns in {H}indi Retroflex \textipa{\:t}},
+volume = {19},
+issue = {2},
+year = {1991},
+}
+
+@article{dart99,
+author = {Dart, Sarah N. and Paroo Nihalani},
+journal = {Journal of the International Phonetic Association},
+pages = {129-142},
+title = {The articulation of {M}alayalam coronal stops and nasals},
+volume = {29},
+issue = {2},
+year = {1999},
+}
+
+@article{iskarous2010,
+author = {Khalil Iskarous and Carol A. Fowler and D. H. Whalen},
+title = {Locus equations are an acoustic expression of articulator synergy},
+publisher = {ASA},
+year = {2010},
+journal = {The Journal of the Acoustical Society of America},
+volume = {128},
+number = {4},
+pages = {2021-2032},
+}
+
+@article{lobanov71,
+author = {B. M. Lobanov},
+title = {Classification of Russian Vowels Spoken by Different Speakers},
+publisher = {ASA},
+year = {1971},
+journal = {The Journal of the Acoustical Society of America},
+volume = {49},
+number = {2B},
+pages = {606-608},
+}
+@article{manuel90,
+author = {Manuel, S.},
+journal = {Journal of the Acoustical Society of America},
+pages = {1286-1298},
+title = {The role of contrast in limiting vowel-to-vowel coarticulation indifferent languages},
+volume = {88},
+year = {1990},
+}
+
+@incollection{manuel99,
+author = {Manuel, S.},
+BookTitle = {Coarticulation: Theory, data and techniques},
+editor ={W. Hardcastle and N. Hewlett},
+title = {Cross-language studies: Relating language-particular coarticulation patterns to other language-particular facts},
+publisher={Cambridge University Press},
+year = {1999},
+}
+
+@article{pbr11,
+author = {Bhaskararao, Peri},
+journal = {Sadhana},
+title = {Salient phonetic features of Indian languages
+in speech technology},
+volume={36},
+issue={5},
+pages = {587-599},
+year = {2011},
+}
+
+@article{recasens09,
+author = {Recasens, D and A. Espinosa},
+journal = {Journal of the Acoustical Society of America},
+title = {An articulatory investigation of lingual coarticulatory resistance and aggressiveness for consonants and vowels in {C}atalan},
+volume={125},
+pages = {2288-2298},
+year = {2009},
+}
+
+@article{stevens75,
+author = {Stevens, K. N., and S. E. Blumstein},
+journal = {Journal of Phonetics},
+title = {Quantal aspects of consonant production and perception: a study of retroflex stop consonants},
+volume={3},
+pages = {215-233},
+year = {1975},
+}
+@article{sussman1993,
+title = {A cross-linguistic investigation of locus equations as a phonetic descriptor for place of articulation},
+volume = {94},
+number = {3},
+journal = {Journal of the Acoustical Society of America},
+author = {Sussman, Harvey M. and Hoemeke, Kathryn A. and Ahmed, Farhan S.},
+year = {1993},
+pages = {1256--1268} }
+
+@article{bladon76,
+author = {Bladon, R. A., and Al-Bamerni, A.},
+journal = {Journal of Phonetics},
+title = {Coarticulation resistance in {E}nglish /l/},
+volume={4},
+pages = {135-150},
+year = {1976},
+}
+
+
+@article{recasens97,
+author = {Recasens, D. and Pallar\`{e}s, M. D. and Fontdevila, J. },
+journal = {Journal of the Acoustical Society of America},
+title = {A model of lingual coarticulation based on articulatory constraints},
+volume={102},
+pages = {544-561},
+year = {1997},
+}
+
+@article{michael99,
+author = {Chafcouloff, Michael and Marchal, Alain.},
+journal = {Coarticulation: Theory, data and techniques},
+title = {Velopharyngeal coarticulation},
+pages = {69-79},
+editors = { William J. Hardcastle and Nigel Hewlett},
+publisher={Cambridge: Cambridge University Press},
+place = {Cambridge},
+year = {1999},
+}
+
+
+@article{ohala93,
+author = {Ohala, J.J. and Ohala, M.},
+journal = {Nasals, nasalization, and the velum[Phonetics and Phonology Series]},
+title = {The phonetics of nasal phonology:theorems and data},
+volume={5},
+pages = {225-249},
+publisher={CA: Academic Press},
+place = {San Diego},
+year = {1993},
+}
+
+
+@article{ohala01,
+author = {Ohala, M., and Ohala, J.J. },
+journal = {Travaux du Cercle Linguistique de Copenhague},
+title = {Acoustic VC transitions correlate with degree of perceptual confusion of place contrast in {H}indi},
+volume={31},
+pages = {265-284},
+year = {2001},
+}
+
+@book{hamann03,
+author = {Hamann, Silke},
+title = {The Phonetics and Phonology of Retroflexes},
+publisher={Utrecht: LOT Press.},
+year = {2003},
+}
+
+@article{shalev93,
+author = {Shalev, Michael, Peter Ladefoged and Peri Bhaskararao},
+journal = {UCLA Working Papers in Phonetics},
+title = {Phonetics of {T}oda},
+volume={84},
+pages = {89-123},
+year = {1993},
+}
+
+@article{edwin11,
+author={Chen, Edwin},
+
+title = {Choosing a Machine Learning Classifier},
+year = {2011},
+}
+
+
+@article{kochetov11,
+author={Kochetov, Alexei},
+journal = {Proceedings of the 17th International Congress of Phonetics Sciences (ICPhS 2011)},
+title = {Alveolar-to-rhotic coarticulation in {N}orth {A}merican {E}nglish: A preliminary EPG study},
+editor = {Wai-Sum Lee and Eric Zee},
+pages = {1118-1121},
+year = {2011},
+}
+
+@article{iskarous10,
+author = {Khalil Iskarous and  Darya Kavitskaya},
+journal = {Journal of Phonetics},
+title = {The interaction between contrast, prosody, and coarticulation in structuring phonetic variability},
+volume={38},
+pages = {625-639},
+year = {2010},
+}
+
+@article{savithri05,
+author = {S.R. Savithri and M. Jayaram and R. Rajasudhakar and M.B. Venugopal},
+journal = {J. Acous. Soc. Ind.},
+title = {A comparative study of base of articulation in {D}ravidian and {I}ndo-{A}ryan languages},
+volume={33},
+pages = {347-351},
+year = {2005},
+}
+
+@article{Boersma2001,
+    author = {Boersma, Paul},
+    citeulike-article-id = {4016976},
+    journal = {Glot International},
+    keywords = {praat, tools},
+    number = {9/10},
+    pages = {341--345},
+    posted-at = {2009-02-06 17:20:57},
+    priority = {1},
+    title = {{Praat, a system for doing phonetics by computer.}},
+    volume = {5},
+    year = {2001}
+}
+
+
+@article{remijsen2004,
+  title={Script to measure and check formants (based on intervaltier)},
+  author={Remijsen, B.},
+  journal={From ``Bert Remijsen's Praat Scripts''},
+  year={2004},
+  
+}
+
+@article{gibson2007,
+title={F2 locus equations: phonetic descriptors of coarticulation in 17- to 22-month-old children.},
+author={Gibson, T. and Ohde, R.N.},
+journal={J Speech Lang Hear Res},
+volume={50},
+number={1},
+pages={97-108},
+year={2007},
+abstract={The general purpose of this research was to describe coarticulation across voiced stop consonant place of articulation in 10 children younger than 2 years of age. A total of 1,182 voiced stop CV productions was analyzed using the locus equation metric, which yielded 3 regression lines that described the relation of F2 onset and F2 vowel for /bV/, /dV/, and /gV/ productions. The results revealed significant differential effects for slope and y-intercept as a function of stop consonant place of articulation. The ordering of the mean slope values for stop consonant place of articulation was /g/>/b/ and /d/, indicating that /g/ was produced with significantly greater coarticulation than /b/ or /d/. However, the unique vowel allophonic pattern of [g] coarticulation reported in the literature for English-speaking adults was generally not learned by these young children. Group and individual coarticulation trends are described in relation to developmental theories of sound acquisition. Results suggest that early coarticulation patterns are phoneme specific. }
+}
+
+@inproceedings{shruti11,
+author = {Biswajit Das and Sandipan Mandal and Pabitra Mitra},
+title = {Bengali speech corpus for continuous automatic speech recognition system},
+booktitle = {Speech Database and Assessments (Oriental COCOSDA)},
+pages = {51-55},
+year = {2011} }
+
+@inproceedings{clark07,
+author = {R.A. Clark, K. Richmond, S. King},
+title = {Multiyn: Open domain unit selection for the festival speech synthesis system},
+booktitle = {Speech Communications},
+volume = {49},
+pages = {317-330},
+year = {2007} }
+
+@inproceedings{kishore02,
+author = {S.Kishore, R.Kumar, R.Sangal},
+title = {A data-driven synthesis approach for Indian languages using syllable as a basic unit},
+booktitle = {International Conference on NLP (ICON)},
+pages = {311-316},
+year = {2002} }
+
+@inproceedings{elluru2013word,
+  title={Is word-to-phone mapping better than phone-phone mapping for handling English words?},
+  author={Elluru, Naresh Kumar and Vadapalli, Anandaswarup and Elluru, Raghavendra and Murthy, Hema and Prahallad, Kishore},
+  booktitle={ACL (2)},
+  pages={196--200},
+  year={2013}
+}
+
+@article{narendra11,
+author = {N.Narendra, K.S.Rao, K.Ghosh, R.R.Vempada, and S.Maity,},
+title = {Development of syllable-based text to speech synthesis system in bengal},
+booktitle = {International Journal on Speech Technology},
+volume = {14}
+pages = {167-181},
+year = {2011} }
+
+@inproceedings{peddinti2011significance,
+  title={Significance of vowel epenthesis in Telugu text-to-speech synthesis},
+  author={Peddinti, Vijayaditya and Prahallad, Kishore},
+  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International Conference on},
+  pages={5348--5351},
+  year={2011},
+  organization={IEEE}
+}
+
+
+@inproceedings{black2005blizzard,
+  title={The Blizzard Challenge 2005: Evaluating corpus-based speech synthesis on common databases},
+  author={Black, A and Tokuda, Keiichi},
+  booktitle={Proceedings of Interspeech},
+  year={2005}
+}
+@article{black1998issues,
+  title={Issues in building general letter to sound rules},
+  author={Black, Alan W and Lenzo, Kevin and Pagel, Vincent},
+  year={1998},
+  publisher={International Speech Communication Association}
+}
+@inproceedings{kumar2013mile,
+  title={MILE TTS for tamil and kannada for blizzard challenge 2013},
+  author={Kumar, HRS and Ashwini, JK and Rajaramand, BSR and Ramakrishnan, AG},
+  booktitle={Blizzard Challenge Workshop 2013},
+  year={2013}
+}
+@inproceedings{schroder2006openmary,
+  title={OpenMary--open source unit selection as the basis for research on expressive synthesis},
+  author={Schr{\"o}der, Marc and Hunecke, Anna and Krstulovic, Sacha},
+  booktitle={Proc. Blizzard Challenge},
+  volume={6},
+  year={2006}
+}
+@inproceedings{bellur2011prosody,
+  title={Prosody modeling for syllable-based concatenative speech synthesis of Hindi and Tamil},
+  author={Bellur, Ashwin and Narayan, K Badri and Raghava Krishnan, K and Murthy, Hema and others},
+  booktitle={Communications (NCC), 2011 National Conference on},
+  pages={1--5},
+  year={2011},
+  organization={IEEE}
+}
+@article{rao07,
+  title={Modeling durations of syllables using neural networks},
+  author={Rao, K Sreenivasa and Yegnanarayana, B},
+  journal={Computer Speech \& Language},
+  volume={21},
+  number={2},
+  pages={282--295},
+  year={2007},
+  publisher={Elsevier}
+}
+@inproceedings{vinodh10,
+  title={Using polysyllabic units for text to speech synthesis in Indian languages},
+  author={Vinodh, MV and Bellur, Ashwin and Narayan, KB and Thakare, Deepali M and Susan, Anila and Suthakar, NM and Murthy, Hema and others},
+  booktitle={Communications (NCC), 2010 National Conference on},
+  pages={1--5},
+  year={2010},
+  organization={IEEE}
+}
+@article{murthy08,
+  title={Methods for improving the quality of syllable based speech synthesis},
+  author={Murthy, Hema A},
+  year={2008}
+}
+@inproceedings{kishore2002data,
+  title={A data driven synthesis approach for indian languages using syllable as basic unit},
+  author={Kishore, SP and Kumar, Rohit and Sangal, Rajeev},
+  booktitle={Proceedings of Intl. Conf. on NLP (ICON)},
+  pages={311--316},
+  year={2002}
+}
+@article{fraser2007blizzard,
+  title={The blizzard challenge 2007},
+  author={Fraser, Mark and King, Simon},
+  journal={Proc. BLZ3-2007 (in Proc. SSW6)},
+  year={2007}
+}
+@inproceedings{hunt96,
+  title={Unit selection in a concatenative speech synthesis system using a large speech database},
+  author={Hunt, Andrew J and Black, Alan W},
+  booktitle={Acoustics, Speech, and Signal Processing, 1996. ICASSP-96. Conference Proceedings., 1996 IEEE International Conference on},
+  volume={1},
+  pages={373--376},
+  year={1996},
+  organization={IEEE}
+}
+@article{clark07,
+  title={Multisyn: Open-domain unit selection for the Festival speech synthesis system},
+  author={Clark, Robert AJ and Richmond, Korin and King, Simon},
+  journal={Speech Communication},
+  volume={49},
+  number={4},
+  pages={317--330},
+  year={2007},
+  publisher={Elsevier}
+}
+@article{clark2004festival,
+  title={Festival 2--build your own general purpose unit selection speech synthesiser},
+  author={Clark, Robert AJ and Richmond, Korin and King, Simon},
+  year={2004}
+}
+@incollection{tsiakoulis2014overview,
+  title={An Overview of the ILSP Unit Selection Text-to-Speech Synthesis System},
+  author={Tsiakoulis, Pirros and Karabetsos, Sotiris and Chalamandaris, Aimilios and Raptis, Spyros},
+  booktitle={Artificial Intelligence: Methods and Applications},
+  pages={370--383},
+  year={2014},
+  publisher={Springer}
+}
+@inproceedings{dutoit1996mbrola,
+  title={The MBROLA project: Towards a set of high quality speech synthesizers free of use for non commercial purposes},
+  author={Dutoit, Thierry and Pagel, Vincent and Pierret, Nicolas and Bataille, Fran{\c{c}}ois and Van der Vrecken, Olivier},
+  booktitle={Spoken Language, 1996. ICSLP 96. Proceedings., Fourth International Conference on},
+  volume={3},
+  pages={1393--1396},
+  year={1996},
+  organization={IEEE}
+}
+@inproceedings{bennett2006blizzard,
+  title={The blizzard challenge 2006},
+  author={Bennett, Christina L and Black, Alan W},
+  booktitle={Proc. Blizzard Challenge},
+  year={2006}
+}
+@article{king2008blizzard,
+  title={The Blizzard Challenge 2008},
+  author={King, Simon and Clark, Robert AJ and Mayo, Catherine and Karaiskos, Vasilis},
+  year={2008}
+}
+@article{king2012blizzard,
+  title={The blizzard challenge 2012},
+  author={King, Simon and Karaiskos, Vasilis},
+  year={2012},
+  publisher={Citeseer}
+}
+
+@inproceedings{elluru2013word, title={Is word-to-phone mapping better than phone-phone mapping for handling English words?}, author={Elluru, Naresh Kumar and Vadapalli, Anandaswarup and Elluru, Raghavendra and Murthy, Hema and Prahallad, Kishore}, booktitle={ACL (2)}, pages={196--200}, year={2013}
+@inproceedings{prahallad2013blizzard,
+  title={The Blizzard Challenge 2013--Indian language task},
+  author={Prahallad, Kishore and Vadapalli, Anandaswarup and Elluru, Naresh and Mantena, G and Pulugundla, B and Bhaskararao, P and Murthy, HA and King, S and Karaiskos, V and Black, AW},
+  booktitle={Blizzard Challenge Workshop 2013},
+  year={2013}
+}
+
+@inproceedings{prahallad2014blizzard,
+  title={The Blizzard Challenge 2014--Indian language task},
+  author={Prahallad, Kishore and Vadapalli, Anandaswarup and Elluru, Naresh and Mantena, G and Pulugundla, B and Bhaskararao, P and Murthy, HA and King, S and Karaiskos, V and Black, AW},
+  booktitle={Blizzard Challenge Workshop 2013},
+  year={2013}
+}
+@article{black2009blizzard,
+  title={The blizzard challenge 2009},
+  author={Black, Alan W and King, Simon and Tokuda, Keiichi},
+  year={2009}
+}
+@book{dutoit1997introduction,
+  title={An introduction to text-to-speech synthesis},
+  author={Dutoit, Thierry},
+  volume={3},
+  year={1997},
+  publisher={Springer Science \& Business Media}
+}
+@article{vepa2004join,
+  title={Join cost for unit selection speech synthesis},
+  author={Vepa, Jithendra},
+  year={2004},
+  publisher={The University of Edinburgh. College of Science and Engineering. School of Informatics}
+}
+@phdthesis{prahallad2010automatic,
+  title={Automatic building of synthetic voices from audio books},
+  author={Prahallad, Kishore},
+  year={2010},
+  school={Nagoya Institute of Technology, Japan}
+}
+@article{liberman1992text,
+  title={Text analysis and word pronunciation in text-to-speech synthesis},
+  author={Liberman, Mark Y and Church, Kenneth W},
+  journal={Advances in speech signal processing},
+  pages={791--831},
+  year={1992},
+  publisher={Dekker, New York}
+}
+@inproceedings{sproat1992corpus,
+  title={A corpus-based synthesizer.},
+  author={Sproat, Richard and Hirschberg, Julia and Yarowsky, David},
+  booktitle={ICSLP},
+  year={1992}
+}
+@article{taylor1998assigning,
+  title={Assigning phrase breaks from part-of-speech sequences},
+  author={Taylor, Paul and Black, Alan W},
+  year={1998},
+  publisher={Academic Press}
+}
+@inproceedings{watts2011unsupervised,
+  title={Unsupervised Continuous-Valued Word Features for Phrase-Break Prediction without a Part-of-Speech Tagger.},
+  author={Watts, Oliver and Yamagishi, Junichi and King, Simon},
+  booktitle={INTERSPEECH},
+  pages={2157--2160},
+  year={2011}
+}
+@inproceedings{vadapalli2014learning,
+  title={Learning continuous-valued word representations for phrase break prediction},
+  author={Vadapalli, Anandaswarup and Prahallad, Kishore},
+  booktitle={Fifteenth Annual Conference of the International Speech Communication Association},
+  year={2014}
+}
+@article{toda2003high,
+  title={High-quality and flexible speech synthesis with segment selection and voice conversion},
+  author={Toda, Tomoki},
+  journal={Doktorska disertacija, Department of Information Processing, Nara Institute of Science and Technology},
+  year={2003},
+  publisher={Citeseer}
+}
+@inproceedings{elluru2013word,
+  title={Is word-to-phone mapping better than phone-phone mapping for handling English words?},
+  author={Elluru, Naresh Kumar and Vadapalli, Anandaswarup and Elluru, Raghavendra and Murthy, Hema and Prahallad, Kishore},
+  booktitle={ACL (2)},
+  pages={196--200},
+  year={2013}
+}
+@inproceedings{olive1977rule,
+  title={Rule synthesis of speech from dyadic units},
+  author={Olive, Joseph P},
+  booktitle={Acoustics, Speech, and Signal Processing, IEEE International Conference on ICASSP'77.},
+  volume={2},
+  pages={568--570},
+  year={1977},
+  organization={IEEE}
+}
+@inproceedings{hunt96,
+  title={Unit selection in a concatenative speech synthesis system using a large speech database},
+  author={Hunt, Andrew J and Black, Alan W},
+  booktitle={Acoustics, Speech, and Signal Processing, 1996. ICASSP-96. Conference Proceedings., 1996 IEEE International Conference on},
+  volume={1},
+  pages={373--376},
+  year={1996},
+  organization={IEEE}
+}
+@inproceedings{kishore07,
+  title={Automatic building of synthetic voices from large multi-paragraph speech databases.},
+  author={Prahallad, Kishore and Toth, Arthur R and Black, Alan W},
+  booktitle={INTERSPEECH},
+  pages={2901--2904},
+  year={2007}
+}
+@article{mayo2005multidimensional,
+  title={Multidimensional scaling of listener responses to synthetic speech},
+  author={Mayo, Catherine and Clark, Robert AJ and King, Simon},
+  year={2005},
+  publisher={International Speech Communication Association}
+}
+@inproceedings{kumar13,
+  title={MILE TTS for tamil and kannada for blizzard challenge 2013},
+  author={Kumar, HRS and Ashwini, JK and Rajaramand, BSR and Ramakrishnan, AG},
+  booktitle={Blizzard Challenge Workshop 2013},
+  year={2013}
+}
+@incollection{klatt1975perception,
+  title={Perception of segment duration in sentence contexts},
+  author={Klatt, Dennis H and Cooper, William E},
+  booktitle={Structure and process in speech perception},
+  pages={69--89},
+  year={1975},
+  publisher={Springer}
+}
+@inproceedings{van2002prediction,
+  title={Prediction and synthesis of prosodic effects on spectral balance of vowels},
+  author={Van Santen, Jan PH and Niu, Xiaochuan},
+  booktitle={Speech Synthesis, 2002. Proceedings of 2002 IEEE Workshop on},
+  pages={147--150},
+  year={2002},
+  organization={IEEE}
+}
+@article{van1992contextual,
+  title={Contextual effects on vowel duration},
+  author={Van Santen, Jan PH},
+  journal={Speech communication},
+  volume={11},
+  number={6},
+  pages={513--546},
+  year={1992},
+  publisher={Elsevier}
+}
+@article{aneeja2015single,
+  title={Single Frequency Filtering Approach for Discriminating Speech and Nonspeech},
+  author={Aneeja, G and Yegnanarayana, B},
+  journal={Audio, Speech, and Language Processing, IEEE/ACM Transactions on},
+  volume={23},
+  number={4},
+  pages={705--717},
+  year={2015},
+  publisher={IEEE}
+}
+@inproceedings{chen2013ustc,
+  title={The USTC system for Blizzard Challenge 2013},
+  author={Chen, Ling-Hui and Ling, Zhen-Hua and Song, YJY and Xia, XJ and Zu, YQ and Yan, RQ and Dai, LR},
+  booktitle={Blizzard Challenge Workshop 2013},
+  year={2013}
+}
+@inproceedings{socher2011parsing,
+  title={Parsing natural scenes and natural language with recursive neural networks},
+  author={Socher, Richard and Lin, Cliff C and Manning, Chris and Ng, Andrew Y},
+  booktitle={Proceedings of the 28th international conference on machine learning (ICML-11)},
+  pages={129--136},
+  year={2011}
+}
+@article{chen2015deep,
+  title={A Deep Generative Architecture for Postfiltering in Statistical Parametric Speech Synthesis},
+  author={Chen, Ling-Hui and Raitio, Tuomo and Valentini-Botinhao, Cassia and Ling, Zhen-Hua and Yamagishi, Junichi},
+  journal={Audio, Speech, and Language Processing, IEEE/ACM Transactions on},
+  volume={23},
+  number={11},
+  pages={2003--2014},
+  year={2015},
+  publisher={IEEE}
+}
+@article{lu2013combining,
+  title={Combining a vector space representation of linguistic context with a deep neural network for text-to-speech synthesis},
+  author={Lu, Heng and King, Simon and Watts, Oliver},
+  journal={Proc. ISCA SSW8},
+  pages={261--265},
+  year={2013}
+}
+@article{aneeja2015single,
+  title={Single Frequency Filtering Approach for Discriminating Speech and Nonspeech},
+  author={Aneeja, G and Yegnanarayana, B},
+  journal={Audio, Speech, and Language Processing, IEEE/ACM Transactions on},
+  volume={23},
+  number={4},
+  pages={705--717},
+  year={2015},
+  publisher={IEEE}
+}
+@article{taylor1999speech,
+  title={Speech synthesis by phonological structure matching.},
+  author={Taylor, Paul and Black, Alan W},
+  year={1999},
+  publisher={International Speech Communication Association}
+}
+@inproceedings{wang2013effect,
+  title={Effect of non-linear deep architecture in sequence labeling},
+  author={Wang, Mengqiu and Manning, Christopher D},
+  booktitle={Proceedings of the 6th International Joint Conference on Natural Language Processing (IJCNLP)},
+  year={2013}
+}
+@inproceedings{ling2007ustc,
+  title={The USTC and iFlytek speech synthesis systems for Blizzard Challenge 2007},
+  author={Ling, Zhen-Hua and Qin, Long and Lu, Heng and Gao, Yu and Dai, Li-Rong and Wang, Ren-Hua and Jiang, Yuan and Zhao, Zhi-Wei and Yang, Jin-Hui and Chen, Jie and others},
+  booktitle={Blizzard Challenge Workshop},
+  year={2007}
+}
+@inproceedings{verhelst1993overlap,
+  title={An overlap-add technique based on waveform similarity (WSOLA) for high quality time-scale modification of speech},
+  author={Verhelst, Werner and Roelands, Marc},
+  booktitle={Acoustics, Speech, and Signal Processing, 1993. ICASSP-93., 1993 IEEE International Conference on},
+  volume={2},
+  pages={554--557},
+  year={1993},
+  organization={IEEE}
+}
+@inproceedings{zen2004hidden,
+  title={Hidden semi-Markov model based speech synthesis.},
+  author={Zen, Heiga and Tokuda, Keiichi and Masuko, Takashi and Kobayashi, Takao and Kitamura, Tadashi},
+  booktitle={INTERSPEECH},
+  year={2004}
+}
+@inproceedings{hifny2002duration,
+  title={Duration modeling for arabic text to speech synthesis.},
+  author={Hifny, Yasser and Rashwan, Mohsen},
+  booktitle={INTERSPEECH},
+  year={2002}
+}
+@inproceedings{lakkavalli10,
+  title={Continuity metric for unit selection based text-to-speech synthesis},
+  author={Lakkavalli, Vikram Ramesh and Arulmozhi, P and Ramakrishnan, AG},
+  booktitle={INTERSPEECH},
+  year={2010}
+}
+@inproceedings{rajaram14,
+  title={MILE TTS for Tamil for blizzard challenge 2014},
+  author={Rajaram, BSR , Shiva Kumar HR and Ramakrishnan, AG},
+  booktitle={Signal Processing and Communications (SPCOM), 2010 International Conference on},
+  pages={1--5},
+  year={2010},
+  organization={IEEE}
+}
+@article{lingustc,
+  title={The USTC System for Blizzard Challenge 2011},
+  author={Ling-HuiChen, Chen-YuYang and Zhen-HuaLing, YuanJiang}
+}
+@inproceedings{hirai2004using,
+  title={Using 5 ms segments in concatenative speech synthesis},
+  author={Hirai, Toshio and Tenpaku, Seiichi},
+  booktitle={Fifth ISCA Workshop on Speech Synthesis},
+  year={2004}
+}
+@inproceedings{peddinti2011significance,
+  title={Significance of vowel epenthesis in Telugu text-to-speech synthesis},
+  author={Peddinti, Vijayaditya and Prahallad, Kishore},
+  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International Conference on},
+  pages={5348--5351},
+  year={2011},
+  organization={IEEE}
+}
+@article{moulines1990pitch,
+  title={Pitch-synchronous waveform processing techniques for text-to-speech synthesis using diphones},
+  author={Moulines, Eric and Charpentier, Francis},
+  journal={Speech communication},
+  volume={9},
+  number={5},
+  pages={453--467},
+  year={1990},
+  publisher={Elsevier}
+}
+@inproceedings{kishore03,
+  title={Unit size in unit selection speech synthesis.},
+  author={Kishore, S Prahallad and Black, Alan W},
+  booktitle={INTERSPEECH},
+  year={2003}
+}
+@book{breiman1984classification,
+  title={Classification and regression trees},
+  author={Breiman, Leo and Friedman, Jerome and Stone, Charles J and Olshen, Richard A},
+  year={1984},
+  publisher={CRC press}
+}
+@article{taylor1998architecture,
+  title={The architecture of the Festival speech synthesis system},
+  author={Taylor, Paul and Black, Alan W and Caley, Richard},
+  year={1998},
+  publisher={International Speech Communication Association}
+}
+@inproceedings{sreenivasa2004modeling,
+  title={Modeling syllable duration in Indian languages using neural networks},
+  author={Sreenivasa Rao, K and Yegnanarayana, B},
+  booktitle={Acoustics, Speech, and Signal Processing, 2004. Proceedings.(ICASSP'04). IEEE International Conference on},
+  volume={5},
+  pages={V--313},
+  year={2004},
+  organization={IEEE}
+}
+@article{friedman1991multivariate,
+  title={Multivariate adaptive regression splines},
+  author={Friedman, Jerome H},
+  journal={The annals of statistics},
+  pages={1--67},
+  year={1991},
+  publisher={JSTOR}
+}
+@inproceedings{riedi1997modeling,
+  title={Modeling segmental duration with multivariate adaptive regression splines.},
+  author={Riedi, Marcel},
+  booktitle={EUROSPEECH},
+  year={1997}
+}
+@article{goubanova2008bayesian,
+  title={Bayesian networks for phone duration prediction},
+  author={Goubanova, Olga and King, Simon},
+  journal={Speech communication},
+  volume={50},
+  number={4},
+  pages={301--311},
+  year={2008},
+  publisher={Elsevier}
+}
+@inproceedings{zhai2001study,
+  title={A study of smoothing methods for language models applied to ad hoc information retrieval},
+  author={Zhai, Chengxiang and Lafferty, John},
+  booktitle={Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval},
+  pages={334--342},
+  year={2001},
+  organization={ACM}
+}
+@article{swathi2013speech,
+  title={Speech Synthesis System for Telugu Language},
+  author={Swathi, G and Mai, C Kiran and Babu, B Raveendra},
+  journal={International Journal of Computer Applications (0975--8887)},
+  volume={81},
+  year={2013},
+  publisher={Citeseer}
+}
+@inproceedings{wang1992analysis,
+  title={An analysis of vector space models based on computational geometry},
+  author={Wang, ZW and Wong, SK Michael and Yao, YY},
+  booktitle={Proceedings of the 15th annual international ACM SIGIR conference on Research and development in information retrieval},
+  pages={152--160},
+  year={1992},
+  organization={ACM}
+}
+@article{caid1995learned,
+  title={Learned vector-space models for document retrieval},
+  author={Caid, William R and Dumais, Susan T and Gallant, Stephen I},
+  journal={Information processing \& management},
+  volume={31},
+  number={3},
+  pages={419--429},
+  year={1995},
+  publisher={Elsevier}
+}
+@article{watts2013unsupervised,
+  title={Unsupervised learning for text-to-speech synthesis},
+  author={Watts, Oliver Samuel},
+  year={2013},
+  publisher={The University of Edinburgh}
+}
+@inproceedings{mikolov2010recurrent,
+  title={Recurrent neural network based language model.},
+  author={Mikolov, Tomas and Karafi{\'a}t, Martin and Burget, Lukas and Cernock{\`y}, Jan and Khudanpur, Sanjeev},
+  booktitle={INTERSPEECH 2010, 11th Annual Conference of the International Speech Communication Association, Makuhari, Chiba, Japan, September 26-30, 2010},
+  pages={1045--1048},
+  year={2010}
+}
+@inproceedings{mikolov2011extensions,
+  title={Extensions of recurrent neural network language model},
+  author={Mikolov, Tomas and Kombrink, Stefan and Burget, Lukas and Cernocky, Jan H and Khudanpur, Sanjeev},
+  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International Conference on},
+  pages={5528--5531},
+  year={2011},
+  organization={IEEE}
+}
+@article{mikolov2013efficient,
+  title={Efficient estimation of word representations in vector space},
+  author={Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
+  journal={arXiv preprint arXiv:1301.3781},
+  year={2013}
+}
+@inproceedings{levy2014neural,
+  title={Neural word embedding as implicit matrix factorization},
+  author={Levy, Omer and Goldberg, Yoav},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={2177--2185},
+  year={2014}
+}
+@phdthesis{prahallad2010automatic,
+  title={Automatic building of synthetic voices from audio books},
+  author={Prahallad, Kishore},
+  year={Jul., 2010},
+  school={CMU, Pittsburgh}
+}
+@inproceedings{black2006clustergen,
+  title={CLUSTERGEN: a statistical parametric synthesizer using trajectory modeling.},
+  author={Black, Alan W},
+  booktitle={INTERSPEECH},
+  year={2006}
+}
+@article{festival01,
+  title={The festival speech synthesis system, version 1.4. 2},
+  author={Black, Alan and Taylor, Paul and Caley, Richard and Clark, Rob and Richmond, Korin and King, Simon and Strom, Volker and Zen, Heiga},
+  journal={Unpublished document available via 
+  year={2001}
+}
+@inproceedings{anumanchipalli2011festvox,
+  title={Festvox: Tools for Creation and Analyses of Large Speech Corpora},
+  author={Anumanchipalli, Gopala Krishna and Prahallad, Kishore and Black, Alan W},
+  booktitle={Workshop on Very Large Scale Phonetics Research, UPenn, Philadelphia},
+  year={2011}
+}
+@inproceedings{slonim2000document,
+  title={Document clustering using word clusters via the information bottleneck method},
+  author={Slonim, Noam and Tishby, Naftali},
+  booktitle={Proceedings of the 23rd annual international ACM SIGIR conference on Research and development in information retrieval},
+  pages={208--215},
+  year={2000},
+  organization={ACM}
+}
+@inproceedings{vedaldi2010vlfeat,
+  title={VLFeat: An open and portable library of computer vision algorithms},
+  author={Vedaldi, Andrea and Fulkerson, Brian},
+  booktitle={Proceedings of the international conference on Multimedia},
+  pages={1469--1472},
+  year={2010},
+  organization={ACM}
+}
+@article{ramanarayananinvestigating,
+  title={Investigating duration modeling within a statistical data-driven front-end for speech synthesis},
+  author={Ramanarayanan, Vikram and Georgiou, Panayiotis G and Narayanan, Shrikanth S}
+}
+@article{yamagishi2008phone,
+  title={Phone duration modeling using gradient tree boosting},
+  author={Yamagishi, Junichi and Kawai, Hisashi and Kobayashi, Takao},
+  journal={Speech Communication},
+  volume={50},
+  number={5},
+  pages={405--415},
+  year={2008},
+  publisher={Elsevier}
+}
+@article{lazaridis2011improving,
+  title={Improving phone duration modelling using support vector regression fusion},
+  author={Lazaridis, Alexandros and Mporas, Iosif and Ganchev, Todor and Kokkinakis, George and Fakotakis, Nikos},
+  journal={Speech Communication},
+  volume={53},
+  number={1},
+  pages={85--97},
+  year={2011},
+  publisher={Elsevier}
+}
+@article{elovitz1976letter,
+  title={Letter-to-sound rules for automatic translation of English text to phonetics},
+  author={Elovitz, H and Johnson, Rodney and McHugh, Astrid and Shore, J},
+  journal={Acoustics, Speech and Signal Processing, IEEE Transactions on},
+  volume={24},
+  number={6},
+  pages={446--459},
+  year={1976},
+  publisher={IEEE}
+}
+@article{lewis2004language,
+  title={Language identification and language specific letter-to-sound rules},
+  author={Lewis, Stephen and McGrath, Katie and Reuppel, Jeffrey},
+  journal={Colorado Research in linguistics},
+  volume={17},
+  number={1},
+  pages={1--8},
+  year={2004}
+}
+@misc{kuhn2000method,
+  title={Method for letter-to-sound in text-to-speech synthesis},
+  author={Kuhn, Roland and Junqua, Jean-claude},
+  year={2000},
+  month=feb # "~22",
+  publisher={Google Patents},
+  note={US Patent 6,029,132}
+}
+@article{pagel1998letter,
+  title={Letter to sound rules for accented lexicon compression},
+  author={Pagel, Vincent and Lenzo, Kevin and Black, Alan},
+  journal={arXiv preprint cmp-lg/9808010},
+  year={1998}
+}
+@article{black1998issues,
+  title={Issues in building general letter to sound rules},
+  author={Black, Alan W and Lenzo, Kevin and Pagel, Vincent},
+  year={1998},
+  publisher={International Speech Communication Association}
+}
+@inproceedings{black2005blizzard,
+  title={The Blizzard Challenge 2005: Evaluating corpus-based speech synthesis on common databases},
+  author={Black, A and Tokuda, Keiichi},
+  booktitle={Proceedings of Interspeech},
+  year={2005}
+}
+
+
+@inproceedings{murthy10,
+author = {H. A. Murthy, A. Bellur, V. Viswanath, B. Narayanan, A. Susan, G. Kasthuri, R. Krishnan, K. S. Rao, S. Maity, N. Narendra et al.,},
+title = {Building unit selection speech synthesis in indian languages: An initiative by an Indian consortium},
+booktitle = {COCOSDA, Kathmandu, Nepal, 2010.
+},
+year = {2010} }
+
+@inproceedings{rallabandi15,
+author = {Saikrishna Rallabandi, Sivananda Achanta, Anandaswarupa Vadapalli and Suryakanth V Gangashetty},
+title = {“IIIT-H’s entry to Blizzard challenge 2015},
+booktitle = {Interspeech 2015.
+},
+year = {2015} }
+
+
+
+@inproceedings{raghav08,
+author = {E.V.Raghavendra,B.Yegnanarayana,and K.Prahallad},
+title = {“Speech synthesis using approximate matching of syllables,"},
+booktitle = {Spoken Language Technology Workshop, 2008. SLT 2008. IEEE},
+year = {2008} }
+
+
+
+@article{rhone2012,
+author = {Ariane E. Rhone and Allard Jongman},
+collaboration = {},
+title = {Modified locus equations categorize stop place in a perceptually realistic time frame},
+publisher = {ASA},
+year = {2012},
+journal = {The Journal of the Acoustical Society of America},
+volume = {131},
+number = {6},
+pages = {EL487-EL491},
+keywords = {speech; speech processing},
+
+}
+
+@INPROCEEDINGS{das2011, 
+author={Das, B. and Mandal, S. and Mitra, P.}, 
+booktitle={Speech Database and Assessments (Oriental COCOSDA), 2011 International Conference on}, 
+title={Bengali speech corpus for continuous automatic speech recognition system}, 
+year={2011}, 
+month={Oct}, 
+pages={51-55}, 
+keywords={hidden Markov models;natural languages;speech recognition;statistical analysis;Bengali speech corpus development;age dependent;continuous word recognition performance;hidden Markov model toolkit;language dependent;older group;phoneme recognition;speaker independent continuous automatic speech recognition system;statistical modeling technique;triphone labeled speech corpora;younger group;Bengali speech corpus;HTK;SPHINX;Speech labeling;Speech recognition}, 
+doi={10.1109/ICSDA.2011.6085979},}
+
+
+
+
+
+
+
+
